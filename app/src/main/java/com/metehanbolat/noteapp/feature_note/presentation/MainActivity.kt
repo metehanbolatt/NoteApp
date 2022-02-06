@@ -1,4 +1,4 @@
-package com.metehanbolat.noteapp
+package com.metehanbolat.noteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
